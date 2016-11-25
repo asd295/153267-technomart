@@ -584,6 +584,7 @@ p {
 }
 .registration {
   padding-left: 25px;
+  max-width: 170px;
 }
 
 .main-navigation {
